@@ -1,4 +1,6 @@
-## Hey there! 👋 I'm Kavishka!
+https://www.bing.com/images/search?view=detailV2&ccid=wNGxHlTC&id=3E20E04D1AB19EF1265672902D3FA0A2270B41F8&thid=OIP.wNGxHlTCsH9zU90WDouoDQHaFj&mediaurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f1059583%2fscreenshots%2f4171367%2fcoding-freak.gif&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.c0d1b11e54c2b07f7353dd160e8ba80d%3frik%3d%252bEELJ6KgPy2Qcg%26pid%3dImgRaw%26r%3d0&exph=600&expw=800&q=gif+for+readme+file&simid=608052178637520270&FORM=IRPRST&ck=C0C3DFCDE8C2E9385A18E134D18608DB&selectedIndex=1&ajaxhist=0&ajaxserp=0
+
+Hey there! 👋 I'm Kavishka!
 
 Welcome to my GitHub profile! I'm a passionate software developer on a journey to turn innovative ideas into reality through code. With a strong foundation in programming and a curiosity-driven mindset, I love exploring new technologies and creating solutions that make an impact.
 
