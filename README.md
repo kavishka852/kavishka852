@@ -1,6 +1,3 @@
-
-![Uploading 68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313035393538332f73637265656e73686f74732f343137313336372f636f64696e672d667265616b2e676966.gif…]()
-
 Hey there! 👋 I'm Kavishka!
 
 Welcome to my GitHub profile! I'm a passionate software developer on a journey to turn innovative ideas into reality through code. With a strong foundation in programming and a curiosity-driven mindset, I love exploring new technologies and creating solutions that make an impact.
