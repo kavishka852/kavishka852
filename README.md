@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+https://th.bing.com/th/id/R.618f083c61a7460ce0a6064319af41bd?rik=xVh09emgHbJ7GA&pid=ImgRaw&r=0
 Hey there! 👋 I'm Kavishka!
 
 Welcome to my GitHub profile! I'm a passionate software developer on a journey to turn innovative ideas into reality through code. With a strong foundation in programming and a curiosity-driven mindset, I love exploring new technologies and creating solutions that make an impact.
