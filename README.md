@@ -1,4 +1,4 @@
-Hey there! 👋 I'm Kavishka!
+<h1>Hey there! 👋 I'm Kavishka!<h1/>
 
 Welcome to my GitHub profile! I'm a passionate software developer on a journey to turn innovative ideas into reality through code. With a strong foundation in programming and a curiosity-driven mindset, I love exploring new technologies and creating solutions that make an impact.
 
