@@ -1,4 +1,4 @@
-![MasterHead](https://th.bing.com/th/id/R.618f083c61a7460ce0a6064319af41bd?rik=xVh09emgHbJ7GA&pid=ImgRaw&r=0)
+![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpaperaccess.com%2Fneon-pixel&psig=AOvVaw03ACkLWExzG4Oxp2Rqltpt&ust=1693126029994000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCND-2ZD4-YADFQAAAAAdAAAAABAD)
 Hey there! 👋 I'm Kavishka!
 
 Welcome to my GitHub profile! I'm a passionate software developer on a journey to turn innovative ideas into reality through code. With a strong foundation in programming and a curiosity-driven mindset, I love exploring new technologies and creating solutions that make an impact.
