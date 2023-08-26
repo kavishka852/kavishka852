@@ -1,6 +1,6 @@
 ![MasterHead](https://wallpaperaccess.com/full/2825826.gif)
-<iframe src="https://giphy.com/embed/KznLJtpg1kRXBNRaH2" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/neon-laser-pattern-KznLJtpg1kRXBNRaH2">via GIPHY</a></p>
-Hey there! 👋 I'm Kavishka!
+
+<h1>Hey there! 👋 I'm Kavishka!</h1>
 
 Welcome to my GitHub profile! I'm a passionate software developer on a journey to turn innovative ideas into reality through code. With a strong foundation in programming and a curiosity-driven mindset, I love exploring new technologies and creating solutions that make an impact.
 
