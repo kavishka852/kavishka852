@@ -1,5 +1,4 @@
-![MasterHead](https://wallpaperaccess.com/full/2825826.gif)
-![Animated Cat GIF](https://example.com/path/to/your/animated_cat.gif)
+![MasterHead](https://th.bing.com/th/id/R.618f083c61a7460ce0a6064319af41bd?rik=xVh09emgHbJ7GA&pid=ImgRaw&r=0)
 
 <h1>Hey there! 👋 I'm Kavishka!</h1>
 
