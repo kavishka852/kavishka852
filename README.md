@@ -30,8 +30,6 @@ Thanks for stopping by!
 
 ## Languages and Tools
 
-## Languages and Tools
-
 ![Android](https://img.shields.io/badge/-Android-green?logo=android)
 ![Arduino](https://img.shields.io/badge/-Arduino-blue?logo=arduino)
 ![Azure](https://img.shields.io/badge/-Azure-blue?logo=microsoft-azure)
