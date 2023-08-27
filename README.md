@@ -27,3 +27,10 @@ Welcome to my GitHub profile! I'm a passionate software developer on a journey t
 📫 You can reach me via [email](kavishkawe38@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/roshan-weerawardhana-725840248/). Let's have a chat!
 
 Thanks for stopping by! 
+
+## Languages and Tools
+
+![Python](https://img.shields.io/badge/-Python-blue?logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)
+![VSCode](https://img.shields.io/badge/-VSCode-blue?logo=visual-studio-code)
+
