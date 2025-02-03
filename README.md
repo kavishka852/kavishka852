@@ -1,5 +1,6 @@
 ![68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313035393538332f73637265656e73686f74732f343137313336372f636f64696e672d667265616b2e676966](https://github.com/kavishka852/kavishka852/assets/102681233/704c1c68-d721-4b7d-82c4-a65225d333c6)
 
+[![Check out kavishka852's profile on stardev.io](https://stardev.io/developers/kavishka852/badge/languages/global.svg)](https://stardev.io/developers/kavishka852)
 <h1>Hey there! 👋 I'm Kavishka!</h1>
 
 Welcome to my GitHub profile! I'm a passionate software developer on a journey to turn innovative ideas into reality through code. With a strong foundation in programming and a curiosity-driven mindset, I love exploring new technologies and creating solutions that make an impact.
